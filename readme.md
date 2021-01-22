@@ -17,10 +17,10 @@
 The course **Project-tech** is given at [**@CMDA**][cmda] in 2021 between February 3 and June 26.
 
 *   **Course**: [Project Tech][course] (`2000PTEC16`)
-*   **Coordinator**: [Danny de Vries][dangit] - d.de.vries4@hva.nl and [Ioannis Kapritsias][jangit] - i.kapritsias@hva.nl
+*   **Coordinator(s)**: [Danny de Vries][dangit] - d.de.vries4@hva.nl and [Rijk van Zanten][rijkgit] - r.vanzanten@hva.nl
 *   **Lecturers**:
-    [Danny de Vries][dangit] ([**@dandevri**][danweb]) and
-    [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit]) 
+    [Danny de Vries][dangit] ([**@dandevri**][danweb]), 
+    [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit])  and [Rijk van Zanten][rijkgit] ([**@rijkvanzanten**][rijkgit])
 *   **Credit**: 5 ECTS
 *   **Academic year**: 2020-2021
 *   **Period**: Quarter 3 (spring)
@@ -46,6 +46,8 @@ _Project-tech is part of the  CMD Amsterdam **design & build space** (technical 
 *   [GitHub][gh] — Main source of information, slides, assignments and more
 *   [Microsoft Teams][teams] — General chatter and Q&A
 *   [Brightspace][brightspace] — Schedulers, rubrics and grading
+
+> This course doesn't have office hours. Teachers have limited time to help you outside of class. Attendance to class is not compulsory. 80% of success in this course is showing up, so show up and come prepared with your questions. 
   
 
 If you have questions:
@@ -58,9 +60,10 @@ If you have questions:
 *   [Browse examples][examples]
 *   [Search StackOverflow][stackoverflow]
 *   [Use a search engine like DuckDuckGo][duckduckgo]
-*   [Ask questions on MS Teams][teams]
+*   [Ask questions on MS Teams][teams] (don't ask to ask and no hello)
 
-> This course doesn't have office hours. Teachers have limited time to help you outside of class. Attendance to class is not compulsory. 80% of success in this course is showing up, so show up and come prepared with your questions. Don't hesitate to ask questions or feedback during class.
+> Asking good questions is a skill. [Don't ask to ask][ask] and [no hello][hello]. Read more about asking questions and being helpful in the [`docs`](/docs) folder.
+
 
 ## Goals
 
@@ -159,6 +162,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [cmda]: https://github.com/cmda
 [dangit]: https://github.com/dandevri
 [danweb]: https://github.com/dandevri
+[rijkgit]: https://github.com/rijkvanzanten
 [ivogit]: https://github.com/ivo-online
 [node]: https://nodejs.org/en/
 [mongodb]: https://www.mongodb.com/
@@ -187,8 +191,10 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [class]: https://rooster.hva.nl/
 [course]: https://studiegids.hva.nl/#/cmd-vt/1/010624
 [oec]: https://www.oeglobal.org
-
 [gs]: getting-started.md
+
+[ask]: https://dontasktoask.com
+[hello]: https://nohello.net
 
 [w1]: week-1.md
 [w2]: week-2.md
