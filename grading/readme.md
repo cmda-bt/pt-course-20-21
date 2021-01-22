@@ -76,7 +76,7 @@ Grades will be published and communicated in _Brightspace_ and/or _MS Teams_. We
 
 > After the first oral test you can request **viewing time** for additional feedback, this can be useful for a resit. Feel free to [contact your lecturer trough _MS Teams_](/readme#synopsis) if you want to do so.
 
-[a1]: https://github.com/cmda-bt/be-course-20-21/blob/master/grading/a1.md
-[a2]: https://github.com/cmda-bt/be-course-20-21/blob/master/grading/a2.md
+[a1]: https://github.com/cmda-bt/pt-course-20-21/blob/master/grading/a1.md
+[a2]: https://github.com/cmda-bt/pt-course-20-21/blob/master/grading/a2.md
 [banner]: https://cmda-bt.github.io/pt-course-20-21/assets/banner-grading.svg
 [grading]: /grading/readme.md
