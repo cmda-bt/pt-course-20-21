@@ -17,7 +17,9 @@ This getting started guide will get you up and running with all the software and
 
 ### Text Editor
 
-If you don’t have one yet, install a text editor. It doesn't really matter which one you pick, as long as you feel comfortable using it. However, we do recommend moving away from [Brackets](http://brackets.io/), other editors offer better customizability. [Atom](https://atom.io), [Sublime](https://www.sublimetext.com) and [VSCode](https://code.visualstudio.com/) are good choices. 
+If you don’t have one yet, install a text editor. It doesn't really matter which one you pick, as long as you feel comfortable using it. However, we do recommend moving away from [Brackets](http://brackets.io/), other editors offer better customizability. [VSCode](https://code.visualstudio.com/) is our recommended choice but there are other.  [Atom](https://atom.io) and [Sublime](https://www.sublimetext.com) are both also good choices. 
+
+> Take some time to [learn the interface and features of VSCode][learnvs]. If you know your way around the interface, coding will be easier. Feeling comfortable with your tools is very important when writing code.
 
 [🎦 _Watch a video_ on how to install Text Editors.][videotext]
 
@@ -104,3 +106,4 @@ Each assignment has a different template in which you can hand in your assignmen
 [videotext]: https://www.youtube.com/watch?v=eP78IB5N7ZM
 [videoorg]: https://www.youtube.com/watch?v=MHX-uFQMevQ
 [issues]: https://github.com/cmda-bt/pt-course-20-21/issues/new/choose
+[learnvs]: https://code.visualstudio.com/learntocode
