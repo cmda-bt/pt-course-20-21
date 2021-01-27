@@ -65,6 +65,8 @@ git config --global user.email "mona@lisa.com"
 
 Use the same email for Git as you used to sign up for GitHub.
 
+[🎦 _Watch a video_ on how to set-up gia via the terminal.][videogit]
+
 
 ## Communication
 
@@ -75,8 +77,6 @@ We use our DLO Brightspace for schedulers and rubric feedback. Make sure you enr
 ### Microsoft Teams
 
 Sign up for our _Blok-Tech_ MS Team. **You can find the sign-up code in the announcement on Brightspace.** Join the `#project-tech` channel in our team. Get your account set up properly, add your  **real name**, **a profile picture**, and you can even set your **GitHub username** as a status message. We’ll use this info to link your GitHub and MS Teams account to our administration files.
-
-[🎦 _Watch a video_ on how to ask questions][videoask]
 
 ### GitHub
 
@@ -103,7 +103,8 @@ Each assignment has a different template in which you can hand in your assignmen
 [star]: https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/saving-repositories-with-stars
 [follow]: https://docs.github.com/en/free-pro-team@latest/github/getting-started-with-github/following-people
 [videoask]: https://www.youtube.com/watch?v=0CARthL2RPo
-[videotext]: https://www.youtube.com/watch?v=eP78IB5N7ZM
-[videoorg]: https://www.youtube.com/watch?v=MHX-uFQMevQ
+[videotext]: https://www.youtube.com/watch?v=a2A_AGAnNjQ
+[videoorg]: https://www.youtube.com/watch?v=8w69jLPpPXM
+[videogit]: https://www.youtube.com/watch?v=Qq39mizx5kE
 [issues]: https://github.com/cmda-bt/pt-course-20-21/issues/new/choose
 [learnvs]: https://code.visualstudio.com/learntocode
