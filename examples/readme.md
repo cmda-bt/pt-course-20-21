@@ -7,11 +7,6 @@
 - [External examples](#external-examples)
 
 ## Student Examples
-
-### Wiki Examples
-
-> There is an official™ blok tech wiki blueprint which you can find in [the wiki of this repository][wiki] (pt-course-20-21). It will get you up and running quickly with the minimum requirements for your documentation but **don't take it as is**. Add more topics and pages once you get going. 
-
 ### Individual Features
 
 <table>
@@ -22,7 +17,7 @@
   </tr>
   <tr valign="top">
     <td width="25%"><a href="https://github.com/BVictorB"><strong>@BVictorB</strong></a><br><a href="https://github.com/BVictorB/cmd-dating-app"><img src="../assets/images/victor.png"></a></td>
-    <td width="25%"><a href="https://github.com/dewarian/"><strong>@karimeij</strong></a><br><a href="https://github.com/karimeij/bloktech"><img src="https://camo.githubusercontent.com/51569c024cdbf5b0fb1b1c1c5ef0771133d720405ec150e6385f2bcaa9ada9c7/68747470733a2f2f692e696d6775722e636f6d2f687168374a68762e706e67"></a></td>
+    <td width="25%"><a href="https://github.com/dewarian/"><strong>@annaboomsma</strong></a><br><a href="https://github.com/annaboomsma/datingAppFeature"><img src="https://github.com/annaboomsma/datingAppFeature/raw/master/documentatie/images/luvely.png"></a></td>
     <td width="25%"><a href="https://github.com/NathanNeelis/"><strong>@nathanneelis</strong></a><br><a href="https://github.com/NathanNeelis/Project-Tech"><img src="https://github.com/NathanNeelis/Project-Tech/raw/master/Styleguide/app/app.jpg"></a></td>
   </tr>
 </table>
@@ -37,10 +32,14 @@
   </tr>
     <tr valign="top">
     <td width="25%"><a href="https://github.com/karimeij/"><strong>Wavy</strong></a><br><a href="https://github.com/karimeij/datingapp"><img src="../assets/images/wavy.png"></a></td>
-    <td width="25%"><a href="https://github.com/iSirThijs"><strong>@iSirThijs</strong></a><br><a href="https://github.com/iSirThijs/Player2"><img src="https://raw.githubusercontent.com/wiki/iSirThijs/Player2/images/fp2home.png"></a></td>
-    <td width="25%"><a href="https://github.com/emmaoudmaijer"><strong>@emmaoudmaijer</strong></a><br><a href="https://github.com/emmaoudmaijer/datingsite"><img src="https://raw.githubusercontent.com/emmaoudmaijer/datingsite/master/images/Schermen.png"></a></td>
+    <td width="25%"><a href="https://github.com/Vuurvos1"><strong>Mealmatch</strong></a><br><a href="https://github.com/Vuurvos1/projectTechGroup"><img src="https://github.com/Vuurvos1/projectTechGroup/raw/master/views/img/login_screen.PNG"></a></td>
+    <td width="25%"><a href="https://github.com/joordy/Dat.io"><strong>Dat.io</strong></a><br><a href="https://github.com/joordy/Dat.io"><img src="../assets/images/datio.png"></a></td>
   </tr>
 </table>
+
+### Wiki Examples
+
+> There is an official™ blok tech wiki blueprint which you can find in [the wiki of this repository][wiki] (pt-course-20-21). It will get you up and running quickly with the minimum requirements for your documentation but **don't take it as is**. Add more topics and customize pages once you get going. 
 
 ### Teacher Examples
 
@@ -61,7 +60,7 @@ _These are small examples  and repository other people have written._
 - [Danny's Dotfiles for setting up his local dev environment][dotfiles]
 - [Wes Bos his No-Sweat™ Eslint and Prettier Setup][dotfiles]
 
-[banner-examples]: https://cmda-pt.github.io/pt-course-20-21/assets/banner-examples.svg
+[banner-examples]: https://cmda-bt.github.io/pt-course-20-21/assets/banner-examples.svg
 [wiki]: https://github.com/cmda-bt/pt-course-20-21/wiki
 
 [community]: https://github.com/sindresorhus/.github
