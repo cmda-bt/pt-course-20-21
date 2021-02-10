@@ -17,7 +17,7 @@
 
 ## Slides
 
-- [Lab-3][lab3]
+_Coming Soon™_
 
 ## Assignments
 
@@ -103,7 +103,8 @@ Try to implement and research atleast **one build tool** in your project and  do
 _Pro Tip™_: Build tools (or asset pipelines) can get complex very easily. So often developers use additional tooling to automate those tasks (e.g. [Gulp][gulp], [Webpack][webpack]) But only install one if you actually need one. If you don't know what you're doing then don't do it.
 ## Concept
 
-**Continue working on your Job Story and feature you are going to build for _Blok Tech_.** Improve the front-end interface of your feature, spend some time on animation and interactivity etc.
+**Continue working on your Job Story and feature you are going to build for _Blok Tech_.**  
+Improve the front-end interface of your feature, spend some time on animation and interactivity etc.
 
 ## Hand In
 
