@@ -108,7 +108,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 
 [markdown]: https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3
 [community]: https://opensource.guide/code-of-conduct/
-[interactive]: https://www.markdowntutorial.com/lesson/1/
+[interactive]: https://www.markdowntutorial.com/
 [katacoda]: https://www.katacoda.com/courses/git
 [tips]: https://github.com/git-tips/tips
 [flight]: https://github.com/k88hudson/git-flight-rules/
