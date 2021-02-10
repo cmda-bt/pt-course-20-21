@@ -25,6 +25,28 @@
 
 ## Assignments
 
+### Code Cleanup
+
+> Ensure your code (and repo in general) is neat-o
+
+- **Time**: 30m-3h (depending on your work so far)
+- **Due**: before week 4
+
+> Any fool can write code that a computer can understand. Good programmers write
+> code that humans can understand.
+>
+> [Martin Fowler](https://twitter.com/martinfowler/status/1067179181140844544)
+
+The code you write will be _executed_ by computers, but it will exclusively be
+_read_ by humans. Therefore, it's critical that your code is easy to read,
+understand, and "mentally parse". Go back into your work so far and make sure
+that everything you've done so far is easy to understand for "outsiders" to your
+project.
+
+_Pro Tip™_: It can be surprisingly difficult to find problems in work you're too
+familiar with. Ask a friend to briefly look at your work, and optimize your code
+based on the questions they ask.
+
 ### Deploy your App!
 
 > Put your app on the web!
