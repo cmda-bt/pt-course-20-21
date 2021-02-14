@@ -50,9 +50,12 @@ wiki.** Look into the following subjects, and describe why you think it's useful
 - CLI's and configurations (f.e. [prompts][prompt], [aliases][alias], [colors][])
 
 #### Additional resources
+
 * [Syntax.fm VSCode extensions and themes](https://syntax.fm/show/161/hasty-treat-vscode-extensions-and-themes)
 
 _Optional_: Many developers create a repo with what are known as `dotfiles`. An export of all their configuration files. You can try to set-up your own if you feel a bit adventurous. Here are two examples from [Mathias][mathias] and [Danny][danny].
+
+---
 
 ### Linting
 
@@ -71,13 +74,17 @@ Besides editors, there's numerous tools available that'll help you _'cleanup'_ y
 * Formatters; helps you **format** you code (f.e. Prettier, Editorconfig)
 
 #### Additional resources
+
 * [Linting with EsLint by The Coding Train](https://www.youtube.com/watch?v=clzTwZgMlqE)
 * [ESLint + Prettier + VS Code by Wes Bos](https://www.youtube.com/watch?v=lHAeK8t94as)
+
 #### Assignment
 
 Try to implement atleast **one linter** and **one formatter** in your project Additionally research what they do and document the research in your wiki. 
 
 _Pro Tip™_: Most linters are often available as extensions in text-editors. You install the extensions and the only thing you additionally have to do is to create a configuration file to tell the extension what rules to check for.
+
+---
 
 ### Build
 
@@ -85,22 +92,24 @@ _Pro Tip™_: Most linters are often available as extensions in text-editors. Yo
 
 > Research and implement a build tool in your project
 
+Note: **This exercise is mainly for people from the _zwarte piste_.**. It's very useful to be aware of the various build tools and how they can help your project, but it's ok if it's a bit too much for now to start using.
+
 #### Synopsis
 
 - **Time**: 3:00h
 - **Due**: before week 4
 
-> **This exercise is mainly for people from the _zwarte piste_.** Build tools are very cool but it's ok if it is too much for now. Still try to understand what build tools are but it's fine if you don't implement it in your current project.
+Build tools are additional tooling you can use in your project and are mostly used for _automating_ tasks or _transforming_ code. For example the CSS preprocessor _Sass_ which gives 'default' CSS more features and abilities. You write `.scss` files which get compiled to `.css` which can be read by a browser.
 
-Build tools are additional tooling you can use in your project and are mostly used for _automating_ tasks or _transforming_ code. For example the CSS preprocessor _sass_ which gives 'default' CSS more features and abilities. You write `.scss` files which get compiled to `.css` which can be read by a browser.
-
-* Preprocessors: [SASS][sass], [PostCSS][postcss]
+* Preprocessors: [Sass][sass], [PostCSS][postcss]
 * Bundlers: [Browserify][browserify], [Rollup][rollup]
+
 #### Assignment
 
 Try to implement and research atleast **one build tool** in your project and  document in your wiki. Often times you can implement build tools by playing around with your start scripts in the package.json (concurrently or npm-run-all can help). 
 
-_Pro Tip™_: Build tools (or asset pipelines) can get complex very easily. So often developers use additional tooling to automate those tasks (e.g. [Gulp][gulp], [Webpack][webpack]) But only install one if you actually need one. If you don't know what you're doing then don't do it.
+_Pro Tip™_: Build tools (or asset pipelines) can get complex very easily. When you end up using multiple build tools in the same project, you'll quickly find that you need an additional tool (e.g. [Gulp][gulp], [Webpack][webpack]) to orchestrate all these different pieces. Don't start using these until you really have to, as they can be very overwhelming to configure properly if you're not already comfortable with the various build-tools and steps.
+
 ## Concept
 
 **Continue working on your Job Story and feature you are going to build for _Blok Tech_.**  
