@@ -17,7 +17,7 @@
 
 ## Slides
 
-_Coming Soon™_
+* [Lab-3][lab3]
 
 ## Assignments
 
@@ -146,3 +146,4 @@ Improve the front-end interface of your feature, spend some time on animation an
 [postcss]: https://postcss.org
 [browserify]: http://browserify.org
 [rollup]: https://www.rollupjs.org/guide/en/
+[lab3]: /slides/pt_20-21_lab-3.pdf
