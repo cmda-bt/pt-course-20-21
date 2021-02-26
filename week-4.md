@@ -13,7 +13,7 @@
 * [Hand in](#hand-in)
 ## Slides
 
-_Coming Soon™_
+* [Lab-4][lab4]
 
 ## Assignments
 
@@ -24,7 +24,7 @@ _Coming Soon™_
 > Ensure your code (and repo in general) is neat-o
 
 #### Synopsis
-- **Time**: 30m-3h (depending on your work so far)
+- **Time**: 3h-4h (depending on your work so far)
 - **Due**: before week 5
 
 > Anyone can write code that a computer can understand. Good programmers write
@@ -37,10 +37,17 @@ _read_ by humans. Therefore, it's critical that your code is easy to read,
 understand, and "mentally parse". Go back into your work so far and make sure
 that everything you've done so far is easy to understand for "outsiders" to your
 project.
+#### Assignment
 
-_Pro Tip™_: It can be surprisingly difficult to find problems in work you're too
-familiar with. Ask a friend to briefly look at your work, and optimize your code
-based on the questions they ask. Also, **linters (week-3) will help** to spot any inconsistenties in your code.
+* **Pick (minimum) 5 of the Clean Code JavaScript concepts** from the GitHub repo and refactor parts of your client and or server-side JavaScript code. Additionally clean-up any other code that needs refactoring. **Document what you refactored with _before_ and _after_ code blocks in your wiki.**
+* **Tweak or set-up additional linters** (see week-3) in your project. It will further help you spot any inconsistenties in your code. 
+* **Ask your support group to review your work**, and optimize your code
+based on the questions they ask. It can be surprisingly difficult to find problems in work you're too familiar with. 
+
+##### Further Reading
+
+* [Clean Code by Robert C. Martin][clean]
+* [Learning JavaScript Design Patterns by Addy Osmani][patterns]
 
 ### Deploy your App!
 
@@ -90,3 +97,7 @@ Improve the front-end interface of your feature, improve the quality of the code
    Any thoughts/feelings/concerns/opinions about these assignments? Let us know!
    We optimize these classes year-to-year, so your feedback is invaluable in
    making this course better.
+
+[clean]: https://www.oreilly.com/library/view/clean-code-a/9780136083238/
+[patterns]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+[lab4]: /slides/pt_20-21_lab-4.pdf
