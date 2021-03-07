@@ -15,10 +15,6 @@
 * [Assessment](#assesment)
 * [Hand in](#hand-in)
 
-
-## Slides
-* [Lab-2][lab2]
-
 ## Assignments
 
 > _This week your **individual assessment (A1)** will take place. There is no new theory. You can continue working on your prototype_.
