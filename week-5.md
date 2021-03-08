@@ -10,7 +10,6 @@
 
 ## Table of Contents
 
-* [Slides](#slides)
 * [Review](#review)
 * [Assessment](#assesment)
 * [Hand in](#hand-in)
