@@ -10,14 +10,9 @@
 
 ## Table of Contents
 
-* [Slides](#slides)
 * [Review](#review)
 * [Assessment](#assesment)
 * [Hand in](#hand-in)
-
-
-## Slides
-* [Lab-2][lab2]
 
 ## Assignments
 

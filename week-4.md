@@ -37,6 +37,7 @@ _read_ by humans. Therefore, it's critical that your code is easy to read,
 understand, and "mentally parse". Go back into your work so far and make sure
 that everything you've done so far is easy to understand for "outsiders" to your
 project.
+
 #### Assignment
 
 * **Pick (minimum) 5 of the Clean Code JavaScript concepts** from the GitHub repo and refactor parts of your client and or server-side JavaScript code. Additionally clean-up any other code that needs refactoring. **Document what you refactored with _before_ and _after_ code blocks in your wiki.**
@@ -62,7 +63,7 @@ based on the questions they ask. It can be surprisingly difficult to find proble
 Deploy your web app to a _hosting service_. This'll allow others to view your
 app on the web! There are various options available, but we recommend looking at the following:
 
-- [Vercel](https://vercel.com): By far the easiest and fastest way to deploy.
+- [DigitalOcean App Platform](https://digitalocean.com): By far the easiest and fastest way to deploy. (Pro Tip: register for [the GitHub Student Pack](https://education.github.com/pack) to get free credit for DO)
 - Platform As A Service:
   [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs):
   needs more config then Vercel but is more powerful.
