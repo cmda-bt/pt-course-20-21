@@ -98,7 +98,7 @@ Think about what feature you are going to work on for the individual part of thi
 
 Document all this research things in your wiki. Teachers will give feedback on your concept in the next lesson. Remember we are not a UCD or NPD course but thinking about your concept for a bit will help you get clear on what you are going to build. So don't make full design documents, writing them down in your wiki is enough.
 
-> 💡There is a [wiki template][wiki-template] you can use as a starting point. Click on the wiki tab on this repository (pt-course-20-21). You can [clone the wiki ][wiki-clone]to your local machine to use it in your own repository.
+> 💡There is a [wiki template][wiki-template] you can use as a starting point. Click on the wiki tab on this repository (pt-course-20-21). You can [clone the wiki ][wiki-clone]to your local machine to use it in your own repository. Cloning the wiki also allows you to easily _add images_ to your wiki. You can create a local images folder and use paths in markdown to reference them.
 
 ## Hand In
 
