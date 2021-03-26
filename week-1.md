@@ -39,6 +39,8 @@ Take a couple of hours to understand what open-source means and how GitHub and G
 4. Read the [_Starting an Open Source Project_][os] and [_The Legal Side of Open Source_][legal].
 
 > 💡[_Commit early and often_][commit]. After you are done with even the smallest changes, get yourself into the habbit of making _small commits_. It's very common to commit ~5/6 times a day instead of _one large_ commit at the end of each day.
+> 
+> 💡In October 2020 GitHub [changed the default branch name][branch] for new repositories from _master_ to `main`. Some resources and tutorials might still use the term _master_. They are interchangeable but remember, the current default is `main`.
 
 #### Assignment
 
@@ -125,6 +127,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [legal]: https://opensource.guide/legal/
 [license]: https://choosealicense.com
 [commit]: https://sethrobertson.github.io/GitBestPractices/#commit
+[branch]: https://github.blog/changelog/2020-10-01-the-default-branch-for-newly-created-repositories-is-now-main/
 
 [wireframe]: https://www.cmdmethods.nl/cards/stepping-stones/design-specification
 [requirements]: https://www.cmdmethods.nl/cards/stepping-stones/requirement-list
