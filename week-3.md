@@ -73,6 +73,8 @@ Besides editors, there's numerous tools available that'll help you _'cleanup'_ y
 * Linters; help you catch **syntax errors** (f.e. ESLint, Stylelint, Markdownlint)
 * Formatters; helps you **format** you code (f.e. Prettier, Editorconfig)
 
+> 💡 Configuration files like `.eslint`, `.editorconfig` etc. are usually created in the [`root`](https://en.wikipedia.org/wiki/Root_directory) of your repository. There is no need to put them in subfolders.
+
 #### Additional resources
 
 * [Linting with EsLint by The Coding Train](https://www.youtube.com/watch?v=clzTwZgMlqE)
