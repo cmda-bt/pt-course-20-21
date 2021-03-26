@@ -41,7 +41,7 @@ Include your name, a profile picture, and a URL to your homepage. Teachers will 
 If you’re on Windows, you should upgrade to _Windows 10 (1903)_ and install the Windows Subsystem for Linux using [this guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) ([or video](https://www.youtube.com/watch?v=Cvrqmq9A3tA))
 . Follow it until you see “Installation successful”. Additionally you can install the [Windows Terminal][terminal] and switch to using WSL.
 
-> Be ware that lecturers may not be able to help you with specific problems on Windows. Ask questions on MS Teams to other Windows users.
+> 💡 Be ware that lecturers may not be able to help you with very specific Windows problems. Additionally some resources used in this course show the MacOS interface. If you're on Windows many tools offer equivelant experiences and most steps and commands you enter will be the same. If something is different on Windows, please let your instructor and other students know in the `#windows` channel so we can troubleshoot and look at alternatives!
 
 *MacOS:*  
 Apple already has a terminal emulator by default to provide a command line interface. Just search for `terminal` in **spotlight** or find it in your applications folder. 
