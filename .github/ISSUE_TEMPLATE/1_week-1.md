@@ -13,7 +13,7 @@ labels: "week-1, GitHub"
 
 ## Class
 
-<!-- Add your class here -->
+<!-- Add your class (tech-x) here -->
 
 ## Repo link
 
