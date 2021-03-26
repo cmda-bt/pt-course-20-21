@@ -60,6 +60,7 @@ Take a couple of hours to learn about Git stategies and version control with Git
 1. Take ± 30 minutes to learn Git [through Katacoda's interactive tutorial][katacoda]. It’s pretty sweet. Follow scenario 1 (and 2 if you have enough time).
 2. Look at some of the common git commands on the [Git Tips][tips] and [Git Flight Rules][flight] repo's. Try out some of the commands and write down your favourite commands.
 3. Read [how to write a git commit message][message] by Chris Beams
+4. Read about [different Git Strategies][strategy] by Seth Robertson
 
 ***Optional:** There are many additional CLI tools to make working with Git even more fun. Like [gitmoji][emoji] or [gitstandup][standup]. You can search on GitHub and install more tools if you feel adventourus.
 
@@ -117,3 +118,4 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [standup]: https://github.com/kamranahmedse/git-standup
 [profile]: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
 [advanced]: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+[strategy]: https://sethrobertson.github.io/GitBestPractices/#workflow
