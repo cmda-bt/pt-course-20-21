@@ -88,6 +88,8 @@ Based on the concept, job story, requirement list and wireframe from the previou
 * Add **interaction and statess**, make sure it feels like an actual webpage. Add states to interactive elements, maybe add some animations and transitions.
 * Don't forget to think about the **flow of your application** (zero states, happy flow, error states). Do you need multiple pages?
 
+> 💡There is no criteria that you web application should be responsive. **Pick the device that best fits your concept.** We suggest you build your front-end _mobile-first_ but, for example, if your application is about PC games (Steam) it might make more sense to go for a _desktop-first_ approach.
+
 ## Hand In
 
 1. **Push your changes:**  
