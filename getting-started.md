@@ -87,7 +87,7 @@ GitHub is a social platform so give this repository `pt-course-20-21` [a ⭐ sta
 
 **Wow, you did it! Virtual high five! 🖐** Now you can introduce yourself to your teacher and class. Open an issue on our [GitHub issue tracker][issues]. You can pick what are called `issue templates`. Pick the `Introduction` template and fill in the details, then submit.
 
-> 🚨 Make sure you never publicly share you name and student number in combination!
+> 🚨 Make sure you never publicly share you name and student number in combination! If you fill in your class you can **use your tech group** `tech-x` not your 'regular' `20x` group.
 
 Each assignment has a different template in which you can hand in your assignments for that week. This is also the place where teachers and student-assistants will give you feedback. You can use [GitHub notifications][notifications] (bell on the top right of the GitHub website) to keep track of changes.
 
