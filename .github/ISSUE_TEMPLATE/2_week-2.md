@@ -15,7 +15,7 @@ labels: "week-2, Markdown"
 
 ## Class
 
-<!-- Add your class here -->
+<!-- Add your class (tech-x) here -->
 
 ## Repo link
 
