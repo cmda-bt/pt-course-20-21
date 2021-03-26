@@ -38,6 +38,8 @@ Take a couple of hours to understand what open-source means and how GitHub and G
 3. Read the _Creating your wiki_ section in the [**Documenting your Project**][wiki] guide.
 4. Read the [_Starting an Open Source Project_][os] and [_The Legal Side of Open Source_][legal].
 
+> 💡[_Commit early and often_][commit]. After you are done with even the smallest changes, get yourself into the habbit of making _small commits_. It's very common to commit ~5/6 times a day instead of _one large_ commit at the end of each day.
+
 #### Assignment
 
 Once you feel comfortable with basic GitHub concepts apply them to your own project. Create a repository for your matching-application, add a [`license`][license] and a `readme.md` (we'll fill it in later) and create a `wiki` to document your research. Explore some of the features you just read about, click trough the interface and settings of your just created repository.
@@ -122,6 +124,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [os]: https://opensource.guide/starting-a-project/
 [legal]: https://opensource.guide/legal/
 [license]: https://choosealicense.com
+[commit]: https://sethrobertson.github.io/GitBestPractices/#commit
 
 [wireframe]: https://www.cmdmethods.nl/cards/stepping-stones/design-specification
 [requirements]: https://www.cmdmethods.nl/cards/stepping-stones/requirement-list
