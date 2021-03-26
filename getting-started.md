@@ -54,7 +54,17 @@ Apple already has a terminal emulator by default to provide a command line inter
 If you installed the [Windows Subsystem for Linux](#subshell) just now, install Git by running `apt-get install git` in Bash.
 
 *MacOS:*  
-Install Git from their website, by [downloading the latest release](https://git-scm.com).
+Install Git using [Homebrew](https://brew.sh/)
+
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+then install Git
+
+```sh
+brew install git
+```
 
 Connect Git and GitHub together inside of the **terminal** like so:
 
