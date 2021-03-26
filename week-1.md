@@ -98,6 +98,8 @@ Think about what feature you are going to work on for the individual part of thi
 
 Document all this research things in your wiki. Teachers will give feedback on your concept in the next lesson. Remember we are not a UCD or NPD course but thinking about your concept for a bit will help you get clear on what you are going to build. So don't make full design documents, writing them down in your wiki is enough.
 
+> 💡There is a [wiki template][wiki-template] you can use as a starting point. Click on the wiki tab on this repository (pt-course-20-21). You can [clone the wiki ][wiki-clone]to your local machine to use it in your own repository.
+
 ## Hand In
 
 1. **Push your changes:**  
@@ -128,6 +130,8 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [license]: https://choosealicense.com
 [commit]: https://sethrobertson.github.io/GitBestPractices/#commit
 [branch]: https://github.blog/changelog/2020-10-01-the-default-branch-for-newly-created-repositories-is-now-main/
+[wiki-template]: https://github.com/cmda-bt/pt-course-20-21/wiki
+[wiki-clone]: https://docs.github.com/en/github/building-a-strong-community/adding-or-editing-wiki-pages#adding-or-editing-wiki-pages-locally
 
 [wireframe]: https://www.cmdmethods.nl/cards/stepping-stones/design-specification
 [requirements]: https://www.cmdmethods.nl/cards/stepping-stones/requirement-list
