@@ -44,9 +44,9 @@ If you’re on Windows, you should upgrade to _Windows 10 (1903)_ and install th
 > 💡 Be ware that lecturers may not be able to help you with very specific Windows problems. Additionally some resources used in this course show the MacOS interface. If you're on Windows many tools offer equivelant experiences and most steps and commands you enter will be the same. If something is different on Windows, please let your instructor and other students know in the `#windows` channel so we can troubleshoot and look at alternatives!
 
 *MacOS:*  
-Apple already has a terminal emulator by default to provide a command line interface. Just search for `terminal` in **spotlight** or find it in your applications folder. 
+Apple already has a terminal emulator by default to provide a command line interface. Just search for `terminal` in **spotlight** or find it in your applications folder. There are other command-line interfaces out there you can download that add more feature. [Hyper](https://hyper.is/) and [iTerm](https://iterm2.com/) are very popular choices.
 
-> There are other command-line interfaces out there you can download that add more feature. [Hyper](https://hyper.is/) and [iTerm](https://iterm2.com/) are very popular choices.
+> 💡 If you have a Mac running MacOS Catalina (or above) the current default shell is `zsh`, previously this was `bash`. If `bash` is still the default on your machine we highly suggest you switch your default shell to `zsh` [using this Apple support article](https://support.apple.com/en-us/HT208050).
 
 ### Git
 
