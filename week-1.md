@@ -66,7 +66,7 @@ We have created a short interactive tutorial to see if you know your away around
 <details>
   <summary><strong>CLI interactive tutorial install guide</strong></summary>
   <p>Create a directory (folder) named 'run' on your computer and in that folder create a file  called <code>tutorial.sh</code> (you can use touch for this) and paste the contents of <a href="https://gist.github.com/dandevri/9568a8dff8f572a0ea67627445aca5b2">this GitHub Gist</a> into the file.</p>
-  <p>Change to that directory where tutorial.sh is in. Now run that script with the command <code>bash tutorial.sh</code></p>
+  <p>Change to the directory named 'run', in which you created the file tutorial.sh. Now run that script with the command <code>bash tutorial.sh</code></p>
   <p>The tutorial should now start in your terminal!</p>
 </details>
 
