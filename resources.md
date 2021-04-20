@@ -57,4 +57,6 @@
 * [Design specification](http://cmdmethods.nl/cards/stepping-stones/design-specification)
 * [Requirements List](http://cmdmethods.nl/cards/stepping-stones/requirement-list)
 
+> 💡 Some resources used in this course show the MacOS interface. If you're on Windows many tools offer equivelant experiences and most steps and commands you enter will be the same. If something is different on Windows, please let your instructor and other students know in the `#windows` channel so we can troubleshoot and look at alternatives!
+
 [banner-resources]: https://cmda-bt.github.io/pt-course-18-19/assets/banner-resources.svg

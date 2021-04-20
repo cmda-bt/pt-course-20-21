@@ -60,6 +60,7 @@ Take a couple of hours to learn about Git stategies and version control with Git
 1. Take ± 30 minutes to learn Git [through Katacoda's interactive tutorial][katacoda]. It’s pretty sweet. Follow scenario 1 (and 2 if you have enough time).
 2. Look at some of the common git commands on the [Git Tips][tips] and [Git Flight Rules][flight] repo's. Try out some of the commands and write down your favourite commands.
 3. Read [how to write a git commit message][message] by Chris Beams
+4. Read about [different Git Strategies][strategy] by Seth Robertson
 
 ***Optional:** There are many additional CLI tools to make working with Git even more fun. Like [gitmoji][emoji] or [gitstandup][standup]. You can search on GitHub and install more tools if you feel adventourus.
 
@@ -87,6 +88,8 @@ Based on the concept, job story, requirement list and wireframe from the previou
 * Add **interaction and statess**, make sure it feels like an actual webpage. Add states to interactive elements, maybe add some animations and transitions.
 * Don't forget to think about the **flow of your application** (zero states, happy flow, error states). Do you need multiple pages?
 
+> 💡There is no criteria that you web application should be responsive. **Pick the device that best fits your concept.** We suggest you build your front-end _mobile-first_ but, for example, if your application is about PC games (Steam) it might make more sense to go for a _desktop-first_ approach.
+
 ## Hand In
 
 1. **Push your changes:**  
@@ -108,7 +111,7 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 
 [markdown]: https://www.youtube.com/watch?v=Je5w18nn-e8&list=PLu8EoSxDXHP7v7K5nZSMo9XWidbJ_Bns3
 [community]: https://opensource.guide/code-of-conduct/
-[interactive]: https://www.markdowntutorial.com/lesson/1/
+[interactive]: https://www.markdowntutorial.com/
 [katacoda]: https://www.katacoda.com/courses/git
 [tips]: https://github.com/git-tips/tips
 [flight]: https://github.com/k88hudson/git-flight-rules/
@@ -117,3 +120,4 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [standup]: https://github.com/kamranahmedse/git-standup
 [profile]: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
 [advanced]: https://github.com/abhisheknaiidu/awesome-github-profile-readme
+[strategy]: https://sethrobertson.github.io/GitBestPractices/#workflow

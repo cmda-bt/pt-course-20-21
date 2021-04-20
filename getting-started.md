@@ -41,12 +41,12 @@ Include your name, a profile picture, and a URL to your homepage. Teachers will 
 If you’re on Windows, you should upgrade to _Windows 10 (1903)_ and install the Windows Subsystem for Linux using [this guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/) ([or video](https://www.youtube.com/watch?v=Cvrqmq9A3tA))
 . Follow it until you see “Installation successful”. Additionally you can install the [Windows Terminal][terminal] and switch to using WSL.
 
-> Be ware that lecturers may not be able to help you with specific problems on Windows. Ask questions on MS Teams to other Windows users.
+> 💡 Be ware that lecturers may not be able to help you with very specific Windows problems. Additionally some resources used in this course show the MacOS interface. If you're on Windows many tools offer equivelant experiences and most steps and commands you enter will be the same. If something is different on Windows, please let your instructor and other students know in the `#windows` channel so we can troubleshoot and look at alternatives!
 
 *MacOS:*  
-Apple already has a terminal emulator by default to provide a command line interface. Just search for `terminal` in **spotlight** or find it in your applications folder. 
+Apple already has a terminal emulator by default to provide a command line interface. Just search for `terminal` in **spotlight** or find it in your applications folder. There are other command-line interfaces out there you can download that add more feature. [Hyper](https://hyper.is/) and [iTerm](https://iterm2.com/) are very popular choices.
 
-> There are other command-line interfaces out there you can download that add more feature. [Hyper](https://hyper.is/) and [iTerm](https://iterm2.com/) are very popular choices.
+> 💡 If you have a Mac running MacOS Catalina (or above) the current default shell is `zsh`, previously this was `bash`. If `bash` is still the default on your machine we highly suggest you switch your default shell to `zsh` [using this Apple support article](https://support.apple.com/en-us/HT208050).
 
 ### Git
 
@@ -54,7 +54,17 @@ Apple already has a terminal emulator by default to provide a command line inter
 If you installed the [Windows Subsystem for Linux](#subshell) just now, install Git by running `apt-get install git` in Bash.
 
 *MacOS:*  
-Install Git from their website, by [downloading the latest release](https://git-scm.com).
+Install Git using [Homebrew](https://brew.sh/)
+
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+then install Git
+
+```sh
+brew install git
+```
 
 Connect Git and GitHub together inside of the **terminal** like so:
 
@@ -87,7 +97,7 @@ GitHub is a social platform so give this repository `pt-course-20-21` [a ⭐ sta
 
 **Wow, you did it! Virtual high five! 🖐** Now you can introduce yourself to your teacher and class. Open an issue on our [GitHub issue tracker][issues]. You can pick what are called `issue templates`. Pick the `Introduction` template and fill in the details, then submit.
 
-> 🚨 Make sure you never publicly share you name and student number in combination!
+> 🚨 Make sure you never publicly share you name and student number in combination! If you fill in your class you can **use your tech group** `tech-x` not your 'regular' `20x` group.
 
 Each assignment has a different template in which you can hand in your assignments for that week. This is also the place where teachers and student-assistants will give you feedback. You can use [GitHub notifications][notifications] (bell on the top right of the GitHub website) to keep track of changes.
 

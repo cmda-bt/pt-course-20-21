@@ -38,6 +38,10 @@ Take a couple of hours to understand what open-source means and how GitHub and G
 3. Read the _Creating your wiki_ section in the [**Documenting your Project**][wiki] guide.
 4. Read the [_Starting an Open Source Project_][os] and [_The Legal Side of Open Source_][legal].
 
+> 💡[_Commit early and often_][commit]. After you are done with even the smallest changes, get yourself into the habbit of making _small commits_. It's very common to commit ~5/6 times a day instead of _one large_ commit at the end of each day.
+> 
+> 💡In October 2020 GitHub [changed the default branch name][branch] for new repositories from _master_ to `main`. Some resources and tutorials might still use the term _master_. They are interchangeable but remember, the current default is `main`.
+
 #### Assignment
 
 Once you feel comfortable with basic GitHub concepts apply them to your own project. Create a repository for your matching-application, add a [`license`][license] and a `readme.md` (we'll fill it in later) and create a `wiki` to document your research. Explore some of the features you just read about, click trough the interface and settings of your just created repository.
@@ -94,6 +98,8 @@ Think about what feature you are going to work on for the individual part of thi
 
 Document all this research things in your wiki. Teachers will give feedback on your concept in the next lesson. Remember we are not a UCD or NPD course but thinking about your concept for a bit will help you get clear on what you are going to build. So don't make full design documents, writing them down in your wiki is enough.
 
+> 💡There is a [wiki template][wiki-template] you can use as a starting point. Click on the wiki tab on this repository (pt-course-20-21). You can [clone the wiki ][wiki-clone]to your local machine to use it in your own repository. Cloning the wiki also allows you to easily _add images_ to your wiki. You can create a local images folder and use paths in markdown to reference them.
+
 ## Hand In
 
 1. **Push your changes:**  
@@ -122,6 +128,10 @@ Let us know what you thought of the homework, what part you spend a lot of time 
 [os]: https://opensource.guide/starting-a-project/
 [legal]: https://opensource.guide/legal/
 [license]: https://choosealicense.com
+[commit]: https://sethrobertson.github.io/GitBestPractices/#commit
+[branch]: https://github.blog/changelog/2020-10-01-the-default-branch-for-newly-created-repositories-is-now-main/
+[wiki-template]: https://github.com/cmda-bt/pt-course-20-21/wiki
+[wiki-clone]: https://docs.github.com/en/github/building-a-strong-community/adding-or-editing-wiki-pages#adding-or-editing-wiki-pages-locally
 
 [wireframe]: https://www.cmdmethods.nl/cards/stepping-stones/design-specification
 [requirements]: https://www.cmdmethods.nl/cards/stepping-stones/requirement-list

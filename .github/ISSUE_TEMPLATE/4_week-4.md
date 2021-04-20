@@ -13,7 +13,7 @@ labels: "week-4, Deploy"
 
 ## Class
 
-<!-- Add your class here -->
+<!-- Add your class (tech-x) here -->
 
 ## Repo link
 
