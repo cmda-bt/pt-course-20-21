@@ -18,9 +18,7 @@ The course **Project-tech** is given at [**@CMDA**][cmda] in 2021 between Februa
 
 *   **Course**: [Project Tech][course] (`2000PTEC16`)
 *   **Coordinator(s)**: [Danny de Vries][dangit] - d.de.vries4@hva.nl and [Rijk van Zanten][rijkgit] - r.vanzanten@hva.nl
-*   **Lecturers**:
-    [Danny de Vries][dangit] ([**@dandevri**][danweb]), 
-    [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit])  and [Rijk van Zanten][rijkgit] ([**@rijkvanzanten**][rijkgit])
+*   **Lecturers**: [Danny de Vries][dangit] ([**@dandevri**][danweb]), [Ivo Nijhuis][ivogit] ([**@ivo-online**][ivogit]), [Robert Spier][robgit] ([**roberrrt-s**][robgit]) and [Rijk van Zanten][rijkgit] ([**@rijkvanzanten**][rijkgit])
 *   **Credit**: 5 ECTS
 *   **Academic year**: 2020-2021
 *   **Period**: Quarter 3 (spring)
@@ -164,6 +162,7 @@ We are dedicated to provide you with a learning environment that is _rigorous, r
 [danweb]: https://github.com/dandevri
 [rijkgit]: https://github.com/rijkvanzanten
 [ivogit]: https://github.com/ivo-online
+[robgit]: https://github.com/roberrrt-s
 [node]: https://nodejs.org/en/
 [mongodb]: https://www.mongodb.com/
 [http]: https://tools.ietf.org/html/rfc2068
