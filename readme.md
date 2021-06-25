@@ -1,5 +1,7 @@
  # ![Project Tech - Course 2020-2021][banner]
 
+> **Note**: Project-tech has concluded for 2020/2021. Next year will be a new, changed, curriculum. Have a look at the [`/examples`](/examples) folder to see some results from this year. A big thank you to our all our students, student assistants and teachers!
+
 ## Table of Content
 
 *   [Synopsis](#synopsis)
